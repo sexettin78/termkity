@@ -1,6 +1,6 @@
 import os
 import random
-print("\033[96m")
+print("\033[94m")
 a1 = ('''
      _.---.._             _.---...__
    .-'   /\   \          .'  /\     / Merhaba! Ben Terminali Güzelleştirmek ve 
