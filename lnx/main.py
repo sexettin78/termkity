@@ -1,4 +1,5 @@
 import os
+print("\033[95m")
 print('''
 
                    _..
