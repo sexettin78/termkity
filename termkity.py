@@ -1,7 +1,7 @@
 import os
 import random
 print("\033[94m")
-a1 = ('''
+a1 = ('''\033[94m
      _.---.._             _.---...__
    .-'   /\   \          .'  /\     / Merhaba! Ben Terminali Güzelleştirmek ve 
    `.   (  )   \        /   (  )   /      Özelleştirmek İçin Buradayım.
@@ -17,7 +17,7 @@ a1 = ('''
 
 ''')
 
-b1 = ('''
+b1 = ('''\033[93m
 					Merhaba! Ben Terminali Güzelleştirmek ve 
 					    Özelleştirmek İçin Buradayım.
     _                ___       _.--.
@@ -32,7 +32,7 @@ b1 = ('''
 
 ''')
 
-c1 = ('''
+c1 = ('''\033[96m
 
 					     
                 |\___/|       Merhaba! Ben Terminali Güzelleştirmek ve
@@ -47,7 +47,7 @@ c1 = ('''
 
 
 
-d1 = (''' 
+d1 = (''' \033[95m
 
                   Merhaba! Ben Terminali Güzelleştirmek ve 
                    ___ Özelleştirmek İçin Buradayım.
